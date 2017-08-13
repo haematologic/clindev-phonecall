@@ -1,10 +1,12 @@
 # Phone Call Challenge #
 
+
+
 Another challenge brought to you by the Clinical Developer's Club [Facebook Page](https://www.facebook.com/groups/257859457974818/)
 
 ### Introduction ###
 
-The NHS faces huge and worsening patient access challenges in Accident & Emergency, Hospital clinics and, of course, General Practice. This challenge is designed to explore one fictional part of the patient access problem and allow you to experiment with some real NHS data in a fictional context. All of this data is historic and otherwise redundant. This data has been released to Clinical Developers Club for research purposes as open source data under the  Creative Commons Licence: Attribution Non-Commercial No Derivatives (CC BY-NC-ND) [Link](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+The NHS faces huge and worsening patient access challenges in Accident & Emergency, Hospital clinics and, of course, General Practice. This challenge is designed to explore one fictional part of the patient access problem and allow you to experiment with some real NHS data in a fictional context. All of this data is historic and otherwise redundant. This data has been released to Clinical Developers Club for research purposes as open source data under the  Creative Commons Licence: Attribution Non-Commercial No Derivatives (CC BY-NC-ND) [Summary Link](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ### The Scenario
 
@@ -70,7 +72,19 @@ There are 2 file types:
 
 ### Licence 
 
+Released under Creative Commons Licence: Attribution Non-Commercial No Derivatives (CC BY-NC-ND [Licence Link](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
 
+#### You are free to:
+
+**Share** — copy and redistribute the material in any medium or format.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+#### Under the following terms:
+
+- **Attribution** — You must give [appropriate credit](https://creativecommons.org/licenses/by-nc-nd/4.0/#), provide a link to the license, and [indicate if changes were made](https://creativecommons.org/licenses/by-nc-nd/4.0/#). You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **NonCommercial** — You may not use the material for [commercial purposes](https://creativecommons.org/licenses/by-nc-nd/4.0/#).
+- **NoDerivatives** — If you [remix, transform, or build upon](https://creativecommons.org/licenses/by-nc-nd/4.0/#) the material, you may not distribute the modified material.
 
 
 
